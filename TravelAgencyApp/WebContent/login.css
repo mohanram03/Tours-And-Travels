@@ -1,0 +1,34 @@
+ body {
+  background-image: url("C:\Users\mohan\Downloads\travelville\img\resort3.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+  p {
+   text-align:center;
+   font-size: 50px;
+   font-family:Ink Free;
+   font-weight: bold;
+   text-decoration: underline;
+   text-shadow: 5px 5px 10px red;
+    }
+ #div1
+{
+  height: 480px;
+  width:360px;position:absolute;left:400;top:100;
+  padding: 50px;
+  margin: 20px;
+  text-align: center;
+}
+input {
+   border:1px solid $dddddd;
+   width:100%;
+   padding: 10px;
+   border-radius: 25px;
+}
+button
+{
+   border:10px solid $dddddd;
+   width:50%;
+   padding: 10px;
+   border-radius: 25px;
+}
